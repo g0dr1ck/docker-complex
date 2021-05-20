@@ -1,3 +1,5 @@
+// check the redis for any new index and calcuate the fib and push to redis again
+
 const keys = require('./keys');
 const redis = require('redis');
 
